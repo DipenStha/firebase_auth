@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670621327845",
+    "project_id": "dipendra-neptechpal",
+    "storage_bucket": "dipendra-neptechpal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670621327845:android:3e002e6fffcebf83bd0f0c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670621327845-j62psmdv7224g883nsvfq9m0nvu2e26a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwMQpSOj97NqAccN-h3elnqDdbDdVsu8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670621327845-j62psmdv7224g883nsvfq9m0nvu2e26a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
